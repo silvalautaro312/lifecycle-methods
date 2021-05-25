@@ -1,1 +1,1 @@
-# practica-react
+# lifecycle-methods
